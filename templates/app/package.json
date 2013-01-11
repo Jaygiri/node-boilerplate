@@ -2,13 +2,19 @@
   "name": "YOUR-PROJECT-NAME-HERE",
   "description": "YOUR PROJECT DESCRIPTION HERE",
   "author": "YOUR NAME <your@emailaddress.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
-    "connect": "1.8.5",
-    "express": "2.5.2",
+    "connect": "2.7.2",
+    "express": "3.0.6",
+    "consolidate": "0.7.0",
     "jade": "0.20.0",
+    "handlebars": "1.0.7",
+    "walrus": "0.10.1",
+    "backbone": "0.9.9",
+    "mongodb": "1.2.8",
     "mongoose": "2.4.8",
-    "socket.io": "0.8.7"
+    "async": "0.1.22",
+    "socket.io": "0.9.13"
   },
   "devDependencies": {
     "vows": "0.5.x",
